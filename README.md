@@ -14,7 +14,7 @@ I build smart automation workflows, LLM-powered bots, and API integrations that 
 ---
 
 **Featured projects**
-
+- 💼 [HubSpot Lead Automation](https://github.com/EzzineMontahe/hubspot-lead-automation) — Production lead-to-deal workflow processing 20+ leads/day. n8n + HubSpot API + Google Sheets + Slack. Validates data, creates contacts/deals, logs everything, sends real-time notifications. 150x faster than manual entry.
 - 📧 B2B Email Automation *(Client Work)* — AI-powered prospecting system for a Swiss electrician targeting French-speaking architects. n8n + Groq + Brevo + Google Sheets CRM. 100+ contacts, dynamic personalized emails in French.
 - 🤖 [Telegram AI Support Bot](https://github.com/EzzineMontahe/telegram-ai-support-bot) — Production-ready AI support bot deployed on DigitalOcean. Sub-second responses, conversation memory, FAQ matching, smart escalation, Google Sheets logging. Built with n8n + Groq.
 - 🔁 [Home AI Assistant](https://github.com/EzzineMontahe/home-ai-assistant) — Personal Telegram bot with LLM integration, PDF reading, multi-command support, multilingual (EN/FR/AR). Built with n8n + Groq.
