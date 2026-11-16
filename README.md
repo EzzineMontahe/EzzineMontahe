@@ -13,18 +13,19 @@ I build smart automation workflows, LLM-powered bots, and API integrations that 
 
 ---
 
-**Featured projects**
+### Featured projects
+
 - 💼 [HubSpot Lead Automation](https://github.com/EzzineMontahe/hubspot-lead-automation) — Production lead-to-deal workflow processing 20+ leads/day. n8n + HubSpot API + Google Sheets + Slack. Validates data, creates contacts/deals, logs everything, sends real-time notifications. 150x faster than manual entry.
-- ### Networking, Cloud & Security
+- 📧 B2B Email Automation *(Client Work)* — AI-powered prospecting system for a Swiss electrician targeting French-speaking architects. n8n + Groq + Brevo + Google Sheets CRM. 100+ contacts, dynamic personalized emails in French.
+- 🤖 [Telegram AI Support Bot](https://github.com/EzzineMontahe/telegram-ai-support-bot) — Built and upgraded a production Telegram support bot to a ReAct AI agent using n8n's Tools Agent node, Groq LLM, and Tavily MCP for real-time web search. Self-hosted on Azure with Nginx, PM2, and Google Sheets logging. The agent reasons before responding and escalates complex queries automatically.
+- 💬 [Home AI Assistant](https://github.com/EzzineMontahe/home-ai-assistant) — Personal Telegram bot with LLM integration, PDF reading, multi-command support, multilingual (EN/FR/AR). Built with n8n + Groq.
+- 🌐 [Portfolio AI](https://github.com/EzzineMontahe/portfolio-ai) — Next.js portfolio with embedded AI assistant powered by Groq. Live at ezzinemontahe.tech.
+
+### Networking, Cloud & Security
+
 - ☁️ [OpenStack Private Cloud Lab](https://github.com/EzzineMontahe/openstack-private-cloud-lab) — Single-node private cloud with DevStack (Keystone, Nova, Neutron/OVN, Glance, Horizon). Isolated DB network, router and instance, plus 11 documented troubleshooting fixes.
 - 🔍 [Vulnerability Triage Pipeline](https://github.com/EzzineMontahe/vuln-triage-pipeline) — Python pipeline: nmap scan → XML parser → NVD API CVE lookup → Markdown/JSON report. Tested on Metasploitable2.
 - 🎓 [Exam Monitoring System](https://github.com/EzzineMontahe/exam-monitor-system) — FastAPI + WebSocket backend, C# WinForms client, PostgreSQL and a live HTML/JS dashboard.
-- 📧 B2B Email Automation *(Client Work)* — AI-powered prospecting system for a Swiss electrician targeting French-speaking architects. n8n + Groq + Brevo + Google Sheets CRM. 100+ contacts, dynamic personalized emails in French.
-- 🤖 [Telegram AI Support Bot](https://github.com/EzzineMontahe/telegram-ai-support-bot) — Built and upgraded a production Telegram support bot to a ReAct AI agent using n8n's Tools Agent node, Groq LLM, and Tavily MCP for real-time web search. Self-hosted on Azure with Nginx, PM2, and Google Sheets logging. The agent reasons before responding and escalates complex queries automatically.
-- 🔁 [Home AI Assistant](https://github.com/EzzineMontahe/home-ai-assistant) — Personal Telegram bot with LLM integration, PDF reading, multi-command support, multilingual (EN/FR/AR). Built with n8n + Groq.
-- 🌐 [Portfolio AI](https://ezzinemontahe.tech) — Next.js portfolio with embedded AI assistant powered by Groq. Live at ezzinemontahe.tech.
-- 📊 [Student Grade Tracker](https://github.com/EzzineMontahe/student-grade-tracker) — Full-stack CRUD app with Spring Boot, Thymeleaf, and MySQL.
-
 ---
 
 **Find me**
