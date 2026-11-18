@@ -36,5 +36,5 @@ Home SOC Lab — Wazuh SIEM, Atomic Red Team attacks mapped to MITRE ATT&CK, ale
 **Find me**
 
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01be288743c2f0f1e9)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/montahe-ezzine-baa6b1297)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/mentaha-ezzine-baa6b1297/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ezzinemontahe.tech)
