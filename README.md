@@ -13,11 +13,16 @@ I build smart automation workflows, LLM-powered bots, and API integrations that 
 
 ---
 
+In progress
+
+Network Alert Triage — Python network anomaly detection with an LLM agent triaging the alerts, running locally.
+Home SOC Lab — Wazuh SIEM, Atomic Red Team attacks mapped to MITRE ATT&CK, alerts routed through n8n into tickets.
+
 ### Featured projects
 
-- 💼 [HubSpot Lead Automation](https://github.com/EzzineMontahe/hubspot-lead-automation) — Production lead-to-deal workflow processing 20+ leads/day. n8n + HubSpot API + Google Sheets + Slack. Validates data, creates contacts/deals, logs everything, sends real-time notifications. 150x faster than manual entry.
+- 💼 [HubSpot Lead Automation](https://github.com/EzzineMontahe/hubspot-lead-automation) — Lead-to-deal workflow built for 20+ leads/day. n8n + HubSpot API + Google Sheets + Slack. Validates data, creates contacts/deals, logs everything, sends real-time notifications. 150x faster than manual entry.
 - 📧 B2B Email Automation *(Client Work)* — AI-powered prospecting system for a Swiss electrician targeting French-speaking architects. n8n + Groq + Brevo + Google Sheets CRM. 100+ contacts, dynamic personalized emails in French.
-- 🤖 [Telegram AI Support Bot](https://github.com/EzzineMontahe/telegram-ai-support-bot) — Built and upgraded a production Telegram support bot to a ReAct AI agent using n8n's Tools Agent node, Groq LLM, and Tavily MCP for real-time web search. Self-hosted on Azure with Nginx, PM2, and Google Sheets logging. The agent reasons before responding and escalates complex queries automatically.
+- 🤖 [Telegram AI Support Bot](https://github.com/EzzineMontahe/telegram-ai-support-bot) — Built and upgraded a Telegram support bot into a ReAct AI agent using n8n’s Tools Agent node, Groq LLM and Tavily MCP for real-time web search. Conversation memory, smart escalation and Google Sheets logging.
 - 💬 [Home AI Assistant](https://github.com/EzzineMontahe/home-ai-assistant) — Personal Telegram bot with LLM integration, PDF reading, multi-command support, multilingual (EN/FR/AR). Built with n8n + Groq.
 - 🌐 [Portfolio AI](https://github.com/EzzineMontahe/portfolio-ai) — Next.js portfolio with embedded AI assistant powered by Groq. Live at ezzinemontahe.tech.
 
