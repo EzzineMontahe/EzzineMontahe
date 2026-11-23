@@ -15,7 +15,6 @@ I build smart automation workflows, LLM-powered bots, and API integrations that 
 
 In progress
 
-Network Alert Triage — Python network anomaly detection with an LLM agent triaging the alerts, running locally.
 Home SOC Lab — Wazuh SIEM, Atomic Red Team attacks mapped to MITRE ATT&CK, alerts routed through n8n into tickets.
 
 ### Featured projects
@@ -28,6 +27,7 @@ Home SOC Lab — Wazuh SIEM, Atomic Red Team attacks mapped to MITRE ATT&CK, ale
 
 ### Networking, Cloud & Security
 
+- 🛡️ [Network Alert Triage](https://github.com/EzzineMontahe/network-alert-triage) — ML detector for network attacks plus an LLM agent that groups detections into alerts and explains them. FastAPI, Streamlit, Docker Compose. Tested on my own VirtualBox lab.
 - ☁️ [OpenStack Private Cloud Lab](https://github.com/EzzineMontahe/openstack-private-cloud-lab) — Single-node private cloud with DevStack (Keystone, Nova, Neutron/OVN, Glance, Horizon). Isolated DB network, router and instance, plus 11 documented troubleshooting fixes.
 - 🔍 [Vulnerability Triage Pipeline](https://github.com/EzzineMontahe/vuln-triage-pipeline) — Python pipeline: nmap scan → XML parser → NVD API CVE lookup → Markdown/JSON report. Tested on Metasploitable2.
 - 🎓 [Exam Monitoring System](https://github.com/EzzineMontahe/exam-monitor-system) — FastAPI + WebSocket backend, C# WinForms client, PostgreSQL and a live HTML/JS dashboard.
